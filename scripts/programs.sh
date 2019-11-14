@@ -3,9 +3,6 @@
 cd programs/
 
 ./docker.sh
-./firefox.sh
-./python.sh
-./vsc.sh
-./vundle.sh
-./sass.sh
-
+./chrome.sh
+./phpstorm.sh
+./oh-my-zsh.sh

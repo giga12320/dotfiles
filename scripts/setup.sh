@@ -9,7 +9,7 @@
 sudo apt upgrade -y
 
 # See our bash changes
-source ~/.bashrc
+source ~/.zshrc
 
 # Fun hello
 figlet "... and we're back!" | lolcat

@@ -14,22 +14,13 @@ function install {
 }
 
 # Basics
-install awscli
-install chromium-browser
 install curl
-install exfat-utils
 install file
 install git
 install htop
 install nmap
-install openvpn
-install tmux
 install vim
 
-# Image processing
-install gimp
-install jpegoptim
-install optipng
 
 # Fun stuff
 install figlet
